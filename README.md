@@ -21,6 +21,7 @@ This repository contains my Python-based exercises and projects as part of the D
 - [Course Notes & Additional Information 📚](#course-notes--additional-information-📚)
 
 ---
+## Day 2: FizzBuzz Challenge
 
 - **Goal:**  
   Implement the classic FizzBuzz algorithm using Python, ensuring that numbers divisible by 3 print "fizz," by 5 print "buzz," and by both print "fizzbuzz;" all others print the number.
